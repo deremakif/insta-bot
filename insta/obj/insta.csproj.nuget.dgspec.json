@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/deremakif/own/insta/insta/insta.csproj": {}
+  },
+  "projects": {
+    "/Users/deremakif/own/insta/insta/insta.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/deremakif/own/insta/insta/insta.csproj",
+        "projectName": "insta",
+        "projectPath": "/Users/deremakif/own/insta/insta/insta.csproj",
+        "packagesPath": "/Users/deremakif/.nuget/packages/",
+        "outputPath": "/Users/deremakif/own/insta/insta/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/deremakif/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[81.0.4044.13800, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

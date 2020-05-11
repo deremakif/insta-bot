@@ -1,0 +1,15 @@
+/Users/deremakif/own/insta/insta/bin/Debug/netcoreapp3.1/insta.deps.json
+/Users/deremakif/own/insta/insta/bin/Debug/netcoreapp3.1/insta.runtimeconfig.json
+/Users/deremakif/own/insta/insta/bin/Debug/netcoreapp3.1/insta.runtimeconfig.dev.json
+/Users/deremakif/own/insta/insta/bin/Debug/netcoreapp3.1/insta.dll
+/Users/deremakif/own/insta/insta/bin/Debug/netcoreapp3.1/insta.pdb
+/Users/deremakif/own/insta/insta/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/deremakif/own/insta/insta/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/deremakif/own/insta/insta/obj/Debug/netcoreapp3.1/insta.csprojAssemblyReference.cache
+/Users/deremakif/own/insta/insta/obj/Debug/netcoreapp3.1/insta.csproj.CoreCompileInputs.cache
+/Users/deremakif/own/insta/insta/obj/Debug/netcoreapp3.1/insta.AssemblyInfoInputs.cache
+/Users/deremakif/own/insta/insta/obj/Debug/netcoreapp3.1/insta.AssemblyInfo.cs
+/Users/deremakif/own/insta/insta/obj/Debug/netcoreapp3.1/insta.csproj.CopyComplete
+/Users/deremakif/own/insta/insta/obj/Debug/netcoreapp3.1/insta.dll
+/Users/deremakif/own/insta/insta/obj/Debug/netcoreapp3.1/insta.pdb
+/Users/deremakif/own/insta/insta/obj/Debug/netcoreapp3.1/insta.genruntimeconfig.cache
